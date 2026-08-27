@@ -1,0 +1,10 @@
+{
+  "name": "Banking To-Do",
+  "short_name": "Banking To-Do",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f6f7f9",
+  "theme_color": "#ffffff",
+  "orientation": "portrait",
+  "description": "Banking notes, tasks and priorities"
+}
